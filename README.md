@@ -50,13 +50,20 @@ python main.py --source 0
 
 Example output videos (dash.mp4, walking.mp4) and img.gif were too large for GitHub and are excluded or uploaded to drive with the link attached in the results.
 
---Results
+📊 Results
 
 Watch the pedestrian tracking demo:
 
 [Demo Video (Google Drive)](https://drive.google.com/file/d/1FtHm8imCToP3V8y5sYxTXwbc_9RGLBZ4/view?usp=sharing)
 
+-Pretrained Weights
+Download yolov5s.pt from[(Google Drive)](https://drive.google.com/file/d/184IIkQqF7nKPiHemgd-4i_0jj_Btmvxl/view?usp=sharing) and place it inside the `weights/` folder.
 
+-Usage
+Run detection and tracking on a video:
+
+```bash
+python detect_sort.py --source path/to/video.mp4 --weights yolov5s.pt
 
 📜 License
 
