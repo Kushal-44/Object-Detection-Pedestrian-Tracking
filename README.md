@@ -48,7 +48,15 @@ python main.py --source 0
 
 ⚠️ Note
 
-Example output videos (dash.mp4, walking.mp4) and img.gif were too large for GitHub and are excluded.
+Example output videos (dash.mp4, walking.mp4) and img.gif were too large for GitHub and are excluded or uploaded to drive with the link attached in the results.
+
+--Results
+
+Watch the pedestrian tracking demo:
+
+[Demo Video (Google Drive)](https://drive.google.com/file/d/1FtHm8imCToP3V8y5sYxTXwbc_9RGLBZ4/view?usp=sharing)
+
+
 
 📜 License
 
